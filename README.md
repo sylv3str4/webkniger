@@ -1,4 +1,4 @@
-# WebKniger - Learning Management System
+# Learning Management System
 
 A modern learning management system built with React and TypeScript.
 
